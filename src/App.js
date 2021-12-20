@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          React Now On Ebs questionmark test
+          React Now On Ebs
         </a>
       </header>
     </div>
