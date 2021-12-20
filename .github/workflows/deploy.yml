@@ -1,5 +1,5 @@
 name: Deploy Frontend
-on:
+on: [push, pull_request]
   push:
     branches:
       - master

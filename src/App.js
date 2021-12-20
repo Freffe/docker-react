@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          React ASS
+          React Now On Ebs
         </a>
       </header>
     </div>
